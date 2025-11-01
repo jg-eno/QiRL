@@ -1,0 +1,10 @@
+numpy
+matplotlib
+qiskit>=1.0,<2.0
+qiskit-machine-learning==0.8.2
+qiskit_aer
+torch
+gymnasium
+ipykernel
+qiskit_ibm_runtime
+seaborn
